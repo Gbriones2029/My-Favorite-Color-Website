@@ -1,0 +1,20 @@
+body {
+background-color: rgb(255, 85, 85);
+color: rgb(255, 201, 179);
+font-family: Georgia;
+}
+
+h1{
+color: rgb(255, 141, 217);
+font-family: Georgia;
+}
+
+h2{
+color: rgb(255, 201, 179);
+font-family: 'Gill Sans';
+}
+
+h3{
+    color: rgb(255, 201, 179);
+    font-family: 'Franklin Gothic Medium';
+    }
